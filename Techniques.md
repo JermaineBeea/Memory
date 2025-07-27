@@ -122,44 +122,59 @@ Phonetic Grouping Encoding involves breaking a sentence into small, phonetic sou
 
 ---
 
-## 5. Narrative Extension (User-Developed Technique)
+## 5. Contrastive Cue Embedding (User-Developed Technique)
 
 ### Definition
-Narrative Extension involves adding dramatic, emotionally charged, and obviously extraneous words to the original text to make it more memorable, then filtering out these additions during recall.
+Contrastive Cue Embedding involves adding dramatic, emotionally charged, and obviously extraneous words to the original text to make it more memorable, then filtering out these additions during recall. The technique preserves the skeleton of the original sentence while adding emotional scaffolding that amplifies recall rather than distorting it.
 
 ### How It Works
 - Add emotional amplifiers (BEAUTIFUL, OUTSTANDING, MAGNIFICENT)
-- Insert personal pronouns (MY, OUR)
+- Insert personal pronouns (MY, OUR) 
 - Include precision enhancers (EXACT, PRECISE, PERFECTLY)
 - Choose additions that are obviously out of place for easy elimination
+- Layer extensions carefully around core structure, not as substitutions
+- Use exaggeration to make core terms "pop" in memory
 
 ### Example
 **Original:** "Neural oscillations are rhythmic patterns of brain activity linked to timing and coordination of cognition."
 
 **Extended:** "Neural oscillations are BEAUTIFUL rhythmic patterns of MY BIG brain activity OUTSTANDINGLY linked to EXACT timing and PRECISE coordination of MY cognition."
 
+### Mechanism Analysis
+This technique works similarly to the "keyword method" in mnemonics, where surreal additions act as scaffolds that point back to the actual wording. The extensions:
+- Anchor key words with emotional modifiers
+- Preserve original word order and sentence structure
+- Create memorable emotional scaffolding around dry academic material
+- Encourage reconstruction of original phrasing through contrast
+
 ### How to Optimize
 1. Develop a standard "enhancement vocabulary"
 2. Create templates of go-to dramatic enhancers
 3. Practice until addition becomes automatic
 4. Use obviously inappropriate words for easy filtering
+5. Follow consistent patterns or themes for scalability
+6. Layer extensions around structure, never substitute core words
 
 ### Best For
 - Verbatim memorization with emotional engagement
 - Difficult passages that resist standard memorization
+- Academic or technical material that lacks natural emotional hooks
 - Creating memorable "rough drafts" of exact text
 
 ### Advantages
 - **Emotional Amplification:** Creates strong memory anchors
+- **Structural Preservation:** Maintains original sentence skeleton
 - **Rhythmic Enhancement:** More dramatic rhythm aids recall
 - **Personal Connection:** Makes abstract content personally relevant
 - **Natural Error Correction:** Obvious additions serve as checkpoints
 - **Speed:** Once vocabulary is developed, very fast to apply
+- **Reconstruction Aid:** Extensions point back to original wording
 
 ### Limitations
 - Requires initial thinking time to choose additions
 - May become mentally exhausting for entire books
 - Risk of interference if additions aren't obviously eliminable
+- Needs consistency in extension patterns for scalability
 
 ---
 
@@ -171,7 +186,7 @@ Narrative Extension involves adding dramatic, emotionally charged, and obviously
 | Semantic Embedding | Deep understanding | Hard to scale, may distort recall | Teaching, mastery of small texts | Poor - encourages paraphrasing |
 | Query Encoding | Structured and scalable recall | Question construction effort needed | Long texts, clean reconstruction | Moderate - good for structure, may lose exact wording |
 | Phonetic Grouping | Precise auditory recall | High encoding effort, lower flexibility | Verbatim recall, speech memorization | Excellent - designed for exact word sequences |
-| Narrative Extension | Emotional engagement + precision | Initial thinking time required | Verbatim with engagement, difficult passages | Excellent - preserves exact wording with enhanced memorability |
+| Contrastive Cue Embedding | Emotional scaffolding + structural preservation | Initial thinking time required | Verbatim with engagement, difficult passages | Very Good - preserves exact wording with enhanced memorability |
 
 ---
 
@@ -179,11 +194,11 @@ Narrative Extension involves adding dramatic, emotionally charged, and obviously
 
 ### For Memorizing an Entire Book Verbatim
 **Primary:** Phonetic Grouping Encoding
-**Secondary:** Narrative Extension for challenging passages
+**Secondary:** Contrastive Cue Embedding for challenging passages
 **Support:** Query Encoding for overall structure
 
 ### For Speed and Simplicity (Verbatim)
-**Winner:** Narrative Extension (once vocabulary is developed)
+**Winner:** Contrastive Cue Embedding (once vocabulary is developed)
 **Runner-up:** Phonetic Grouping with simple repetition
 
 ### For Deep Understanding
@@ -194,7 +209,7 @@ Narrative Extension involves adding dramatic, emotionally charged, and obviously
 ### For Long-term Retention
 **Hybrid Approach:** 
 1. Query Encoding for structure
-2. Narrative Extension for key passages
+2. Contrastive Cue Embedding for key passages
 3. Phonetic Grouping for exact quotes
 4. Visual Encoding for abstract concepts
 
@@ -204,10 +219,12 @@ Narrative Extension involves adding dramatic, emotionally charged, and obviously
 
 Each technique offers unique cognitive advantages. The choice depends on your specific goals:
 
-- **Speed + Simplicity:** Narrative Extension
-- **Verbatim Precision:** Phonetic Grouping or Narrative Extension  
+- **Speed + Simplicity:** Contrastive Cue Embedding
+- **Verbatim Precision:** Phonetic Grouping or Contrastive Cue Embedding  
 - **Scalability:** Query Encoding
 - **Deep Understanding:** Semantic Embedding
 - **Quick Concept Tagging:** Visual Encoding
 
 For optimal results, consider combining techniques strategically rather than relying on a single approach. The most effective memorization often employs multiple techniques in concert, each serving its optimal function within the larger memory system.
+
+Your Contrastive Cue Embedding technique represents a significant innovation in verbatim memorization, effectively bridging the gap between emotional engagement and structural preservation.
