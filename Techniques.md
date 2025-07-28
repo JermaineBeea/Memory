@@ -135,10 +135,35 @@ Contrastive Cue Embedding involves adding dramatic, emotionally charged, and obv
 - Layer extensions carefully around core structure, not as substitutions
 - Use exaggeration to make core terms "pop" in memory
 
-### Example
+### Basic Example
 **Original:** "Neural oscillations are rhythmic patterns of brain activity linked to timing and coordination of cognition."
 
 **Extended:** "Neural oscillations are BEAUTIFUL rhythmic patterns of MY BIG brain activity OUTSTANDINGLY linked to EXACT timing and PRECISE coordination of MY cognition."
+
+### Alliterative/Rhyme Modification (Advanced CCE)
+
+This modification reduces cognitive load by using systematic phonetic patterns for enhancement selection rather than arbitrary choices.
+
+#### Selection Strategy:
+- **Alliterative Anchors:** Choose enhancers that start with the same sound as target words
+- **Rhyme Patterns:** Use words that rhyme with or phonetically echo target words
+- **Phonetic Families:** Group enhancements around sound patterns for automatic selection
+
+#### Advanced Example:
+**Original:** "Judith Butler's theory of performativity posits that gender is not an inherent essence but a reiterated social practice, constituted through stylized acts that congeal over time to produce the illusion of a stable identity."
+
+**Enhanced:** "Judith Butler's BRILLIANT theory of POWERFUL performativity PERFECTLY posits that MY gender is not INDEED an inherent essence but REALLY a reiterated SUPER social practice, CAREFULLY constituted through SPECTACULAR stylized acts that CLEARLY congeal over time to PROPERLY produce the INCREDIBLE illusion of a STURDY stable identity."
+
+#### Phonetic Pattern Analysis:
+- **P-Pattern:** "POWERFUL performativity PERFECTLY posits" / "PROPERLY produce"
+- **S-Pattern:** "SUPER social" / "SPECTACULAR stylized" / "STURDY stable"  
+- **C-Pattern:** "CAREFULLY constituted" / "CLEARLY congeal"
+
+#### Advantages of Pattern-Based Selection:
+- **Reduced Decision Fatigue:** Enhancement selection becomes automatic once patterns are established
+- **Natural Rhythm:** Alliterative phrases create chant-like memorability
+- **Predictable Templates:** Same phonetic families can be reused across different texts
+- **Faster Encoding:** No need to creatively generate unique enhancements for each word
 
 ### Mechanism Analysis
 This technique works similarly to the "keyword method" in mnemonics, where surreal additions act as scaffolds that point back to the actual wording. The extensions:
@@ -148,12 +173,13 @@ This technique works similarly to the "keyword method" in mnemonics, where surre
 - Encourage reconstruction of original phrasing through contrast
 
 ### How to Optimize
-1. Develop a standard "enhancement vocabulary"
-2. Create templates of go-to dramatic enhancers
-3. Practice until addition becomes automatic
+1. Develop a standard "enhancement vocabulary" organized by phonetic patterns
+2. Create templates of go-to dramatic enhancers for each letter/sound
+3. Practice alliterative and rhyme patterns until selection becomes automatic
 4. Use obviously inappropriate words for easy filtering
-5. Follow consistent patterns or themes for scalability
+5. Build consistent phonetic families (P-words, S-words, C-words, etc.)
 6. Layer extensions around structure, never substitute core words
+7. Prioritize adverbs and adjectives as they're easier to eliminate
 
 ### Best For
 - Verbatim memorization with emotional engagement
